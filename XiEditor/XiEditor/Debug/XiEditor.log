@@ -1,0 +1,5 @@
+﻿  XiEditor.cpp
+c:\users\abraham\desktop\csc326\xieditor\xieditor\xieditor.cpp(152): warning C4018: '>=': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\abraham\Desktop\Csc326\XiEditor\Debug\XiEditor.exe'

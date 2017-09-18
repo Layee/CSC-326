@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\abraham\desktop\csc326\palindrome\palindrome\linkedqueue.h(34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\abraham\desktop\csc326\palindrome\palindrome\linkedqueue.h(35): note: see reference to class template instantiation 'LinkedQueue<ItemType>' being compiled
+c:\users\abraham\desktop\csc326\palindrome\palindrome\linkedqueue.inl(111): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Palindrome.vcxproj -> C:\Users\abraham\Desktop\Csc326\Palindrome\Debug\Palindrome.exe
+  Palindrome.vcxproj -> C:\Users\abraham\Desktop\Csc326\Palindrome\Debug\Palindrome.pdb (Partial PDB)

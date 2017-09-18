@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\abraham\desktop\csc326\queuepalindrome\queuepalindrome\linkedqueue.h(34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\abraham\desktop\csc326\queuepalindrome\queuepalindrome\linkedqueue.h(35): note: see reference to class template instantiation 'LinkedQueue<ItemType>' being compiled
+c:\users\abraham\desktop\csc326\queuepalindrome\queuepalindrome\linkedqueue.h(37): fatal error C1004: unexpected end-of-file found
